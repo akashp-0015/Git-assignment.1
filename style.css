@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+button {
+    padding: 10px 20px;
+}
